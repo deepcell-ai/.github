@@ -12,7 +12,9 @@ with sources and cheat sheets to help you explain your thinking. One edit update
   <a href="https://deepcell.net/demo">Try a real kit</a> ·
   <a href="https://deepcell.net/product/for-agent">For AI agents</a> ·
   <a href="https://github.com/deepcell-ai/deepcell-plugins">Plugin repo</a> ·
-  <a href="https://www.youtube.com/watch?v=Mcbq8NkSpUU">Watch the film</a>
+  <a href="https://www.youtube.com/watch?v=Mcbq8NkSpUU">Watch the film</a> ·
+  <a href="https://www.linkedin.com/company/deepcell-ai">LinkedIn</a> ·
+  <a href="https://x.com/deepcellonx">X</a>
 </p>
 
 <p align="center">
@@ -70,6 +72,7 @@ What the plugin contains, how to install it and example requests are in the
 - 🧩 Plugin — [deepcell-ai/deepcell-plugins](https://github.com/deepcell-ai/deepcell-plugins)
 - 📦 CLI — [deepcell-cli on PyPI](https://pypi.org/project/deepcell-cli/)
 - 🎬 Film — [YouTube](https://www.youtube.com/watch?v=Mcbq8NkSpUU) · 🚀 [Product Hunt](https://www.producthunt.com/products/deepcell)
+- 💼 [LinkedIn](https://www.linkedin.com/company/deepcell-ai) · 𝕏 [@deepcellonx](https://x.com/deepcellonx)
 - ✉️ [hello@deepcell.net](mailto:hello@deepcell.net) · bugs and requests: [issues](https://github.com/deepcell-ai/deepcell-plugins/issues)
 
 <p align="center"><sub><em>Deadline met. Time to head home.</em></sub></p>
